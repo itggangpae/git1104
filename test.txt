@@ -1,6 +1,1 @@
-git team 연습
-<<<<<<< Updated upstream
-linux에서 editing
-=======
-stash 작업
->>>>>>> Stashed changes
+commit dev1 - 1
